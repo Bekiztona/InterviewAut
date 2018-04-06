@@ -1,0 +1,9 @@
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\bin\Debug\Framework.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\bin\Debug\Framework.pdb
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\bin\Debug\WebDriver.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\bin\Debug\WebDriver.Support.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\bin\Debug\WebDriver.xml
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\bin\Debug\WebDriver.Support.xml
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\obj\Debug\Framework.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\Framework\obj\Debug\Framework.pdb

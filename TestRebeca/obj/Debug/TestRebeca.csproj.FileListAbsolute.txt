@@ -1,0 +1,12 @@
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\TestRebeca.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\TestRebeca.pdb
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\Framework.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\WebDriver.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\WebDriver.Support.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\Framework.pdb
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\WebDriver.xml
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\bin\Debug\WebDriver.Support.xml
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\obj\Debug\TestRebeca.csprojResolveAssemblyReference.cache
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\obj\Debug\TestRebeca.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestRebeca\obj\Debug\TestRebeca.pdb
